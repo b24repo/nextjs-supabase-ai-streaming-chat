@@ -225,7 +225,7 @@ export default function ChatPage() {
                   <div className="rounded-lg bg-white p-4 border border-slate-200 text-left hover:border-blue-300 transition-colors cursor-pointer" onClick={() => setInput('How can I deploy this?')}>
                     <p className="font-medium text-slate-900 text-sm">Deployment</p>
                     <p className="text-xs text-slate-600 mt-1">Get it running in production</p>
-                </div>
+                  </div>
                 </div>
               </div>
             </div>
